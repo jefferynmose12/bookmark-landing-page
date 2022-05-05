@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookmark-landing-page/static/css/main.721ae5ae.css",
+    "main.js": "/bookmark-landing-page/static/js/main.5d4b6a12.js",
+    "static/media/illustration-features-tab-3.svg": "/bookmark-landing-page/static/media/illustration-features-tab-3.a4206aab7946773b29b702492d2d014b.svg",
+    "static/media/illustration-features-tab-2.svg": "/bookmark-landing-page/static/media/illustration-features-tab-2.e933bd6d921c537d7743e08ea4ec488e.svg",
+    "static/media/illustration-hero.svg": "/bookmark-landing-page/static/media/illustration-hero.07801d05cb11930f0c826add8c05ce22.svg",
+    "static/media/logo-bookmark.svg": "/bookmark-landing-page/static/media/logo-bookmark.9cdd9dd4c2a83fe716aeee227cc05c56.svg",
+    "static/media/illustration-features-tab-1.svg": "/bookmark-landing-page/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
+    "static/media/logo-chrome.svg": "/bookmark-landing-page/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
+    "static/media/logo-firefox.svg": "/bookmark-landing-page/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
+    "index.html": "/bookmark-landing-page/index.html",
+    "static/media/bg-dots.svg": "/bookmark-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12393cb5f391a7.svg",
+    "static/media/icon-error.svg": "/bookmark-landing-page/static/media/icon-error.a46cc66573dea1a15acb0dd260693083.svg",
+    "static/media/logo-opera.svg": "/bookmark-landing-page/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
+    "main.721ae5ae.css.map": "/bookmark-landing-page/static/css/main.721ae5ae.css.map",
+    "main.5d4b6a12.js.map": "/bookmark-landing-page/static/js/main.5d4b6a12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721ae5ae.css",
+    "static/js/main.5d4b6a12.js"
+  ]
+}
